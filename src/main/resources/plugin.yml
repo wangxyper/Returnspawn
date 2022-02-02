@@ -1,0 +1,7 @@
+name: ReturnSpawn
+version: '${project.version}'
+main: org.wangxyper.ReturnSpawn.Main
+commands:
+  home:
+    description: awa
+    usage: /home

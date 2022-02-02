@@ -1,0 +1,26 @@
+NewPlayer:
+  Join:
+    BroadcastMessage: "DEFAULT"
+    MessageColor: "LIGHT_GREEN"
+    TitleNewPlayer: ""
+    SubTitleNewPlayer: ""
+    ColorSubTitle: "LIGHT_PURPLE"
+    ColorMainTitle: "LIGHT_GREEN"
+JoinedPlayer:
+  Join:
+    BroadcastMessage: "DEFAULT"
+    MessageColor: "LIGHT_GREEN"
+    TitleNewPlayer: ""
+    SubTitleNewPlayer: ""
+    ColorSubTitle: "LIGHT_PURPLE"
+    ColorMainTitle: "LIGHT_GREEN"
+  Quit:
+    BroadcastMessage: "DEFAULT"
+    MessageColor: "LIGHT_GREEN"
+CommandConfig:
+  HomeCommandAfterExecuteCommand:
+    - "gamemode 2 @s"
+  HomeCommandBack:
+    - 23
+    - 23
+    - 23
